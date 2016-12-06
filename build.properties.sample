@@ -1,0 +1,6 @@
+# build.properties
+[settings]
+sf.username =
+sf.password =
+sf.token =
+sf.serverurl = https://login.salesforce.com
